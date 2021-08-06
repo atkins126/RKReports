@@ -2,7 +2,6 @@ program Reports;
 
 uses
   Vcl.Forms,
-  fmuMainForm in 'fmuMainForm.pas' {Form1},
   CR.Application in 'Source\CR.Application.pas',
   CR.Options in 'Source\CR.Options.pas',
   vwuCommon in 'Source\Common\vwuCommon.pas' {vwCommon: TDataModule},

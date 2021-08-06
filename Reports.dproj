@@ -118,9 +118,6 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="fmuMainForm.pas">
-            <Form>Form1</Form>
-        </DCCReference>
         <DCCReference Include="Source\CR.Application.pas"/>
         <DCCReference Include="Source\CR.Options.pas"/>
         <DCCReference Include="Source\Common\vwuCommon.pas">
